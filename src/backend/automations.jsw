@@ -1,0 +1,4 @@
+export function getAutomationResult() {
+    // Logique de calcul ou récupération de données pour l'automation
+    return "Résultat de l'automation";
+}
